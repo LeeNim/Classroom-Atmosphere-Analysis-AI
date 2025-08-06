@@ -1,0 +1,80 @@
+[
+    {
+        "model": "XGBoost",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 1.9466876983642578
+    },
+    {
+        "model": "XGBoost",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 2.5022029876708984
+    },
+    {
+        "model": "XGBoost",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 2.4940967559814453
+    },
+    {
+        "model": "Random Forest",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 2.9518604278564453
+    },
+    {
+        "model": "Random Forest",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 2.971172332763672
+    },
+    {
+        "model": "Random Forest",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 1.9876956939697266
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.8461538461538461,
+        "f1_score_macro": 0.8215488215488215,
+        "prediction_time_ms": 50.008535385131836
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.7692307692307693,
+        "f1_score_macro": 0.7435064935064934,
+        "prediction_time_ms": 51.31363868713379
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.7692307692307693,
+        "f1_score_macro": 0.7435064935064934,
+        "prediction_time_ms": 51.89156532287598
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.8461538461538461,
+        "f1_score_macro": 0.8215488215488215,
+        "prediction_time_ms": 50.80151557922363
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.6923076923076923,
+        "f1_score_macro": 0.6363636363636364,
+        "prediction_time_ms": 49.957275390625
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.7692307692307693,
+        "f1_score_macro": 0.7435064935064934,
+        "prediction_time_ms": 51.83553695678711
+    },
+    {
+        "model": "Deep Learning (MLP)",
+        "accuracy": 0.7692307692307693,
+        "f1_score_macro": 0.7435064935064934,
+        "prediction_time_ms": 51.05280876159668
+    }
+]

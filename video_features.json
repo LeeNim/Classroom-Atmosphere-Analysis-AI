@@ -1,0 +1,12 @@
+{
+    "video_path": "video5p.mp4",
+    "features": {
+        "percent_angry": 9.342301943198803,
+        "percent_disgust": 0.14947683109118087,
+        "percent_fear": 9.790732436472346,
+        "percent_happy": 8.669656203288492,
+        "percent_neutral": 27.50373692077728,
+        "percent_sad": 44.17040358744394,
+        "percent_surprise": 0.37369207772795215
+    }
+}
